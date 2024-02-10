@@ -3,3 +3,5 @@ data
 *.jpg
 *.png
 *.html
+
+.DS_Store
